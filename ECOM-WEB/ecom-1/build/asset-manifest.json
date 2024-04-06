@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15c59c06.css",
+    "main.js": "/static/js/main.45fc4aac.js",
+    "static/media/tomatoes.jpg": "/static/media/tomatoes.65f77c3d77639abc12d7.jpg",
+    "static/media/singlebg.jpg": "/static/media/singlebg.fe580304438198229cf9.jpg",
+    "static/media/pawpaw.jpg": "/static/media/pawpaw.bacb18a84234f104c435.jpg",
+    "static/media/lamp.jpg": "/static/media/lamp.46bc2ce660be4b9cfabf.jpg",
+    "static/media/hamburger.png": "/static/media/hamburger.83a8e08e0434767c2240.png",
+    "static/media/pumpkin.jpg": "/static/media/pumpkin.86cb43e3ed78d10acce5.jpg",
+    "static/media/beverage.png": "/static/media/beverage.25e4d2714733f3526c36.png",
+    "static/media/prod2.png": "/static/media/prod2.78745c994a5b5ef2d64b.png",
+    "static/media/leaves.png": "/static/media/leaves.9cea01844bc597e425d0.png",
+    "static/media/prod1.png": "/static/media/prod1.4bdae0518e602b488048.png",
+    "static/media/prod3.png": "/static/media/prod3.fd7c0c805306dd679860.png",
+    "static/media/onions.png": "/static/media/onions.157f50092d7acd4b7c45.png",
+    "static/media/apple.png": "/static/media/apple.92347e47686a545988f6.png",
+    "static/media/apples.jpg": "/static/media/apples.fe6419303bf73962c91e.jpg",
+    "static/media/prod4.png": "/static/media/prod4.d17c6d4c66cfcd79e5a5.png",
+    "static/media/strawberry.png": "/static/media/strawberry.d17c6d4c66cfcd79e5a5.png",
+    "static/media/kiwi.png": "/static/media/kiwi.83f8d502acf2828f2c57.png",
+    "static/media/fruit.png": "/static/media/fruit.e8fcc421b8854dcbe85a.png",
+    "static/media/icon.png": "/static/media/icon.78cd4f0f82270e3a00e1.png",
+    "static/media/peach.png": "/static/media/peach.e39ddefb0542f651fef5.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.15c59c06.css.map": "/static/css/main.15c59c06.css.map",
+    "main.45fc4aac.js.map": "/static/js/main.45fc4aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c59c06.css",
+    "static/js/main.45fc4aac.js"
+  ]
+}
